@@ -1,0 +1,23 @@
+"GameInfo"
+{
+	game			"Notes"
+	title			"NOTES"
+	title2			"amare et sapere vix deo conceditur"
+	type			singleplayer_only
+	developer		"Aspik"
+	developer_url		"http://aspik.ru"
+
+	FileSystem
+	{
+		SteamAppId			218
+		ToolsAppId			211
+		AdditionalContentId		420
+		SearchPaths
+		{
+			Game			|gameinfo_path|.
+			Game			ep2
+			Game			episodic
+			Game			hl2
+		}
+	}
+}
